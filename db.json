@@ -1,0 +1,52 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "image": "https://image.tmdb.org/t/p/w500/rWI9nlFB1bMWlU7xExJ4WmkQUyV.jpg",
+            "name": "The Red Virgin",
+            "Release_Date": "2024-09-24"
+        },
+        {
+            "id": 2,
+            "image": "https://image.tmdb.org/t/p/w500/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
+            "name": "Creature Commandos",
+            "Release_Date": "2024-12-5"
+        },
+        {
+            "id": 3,
+            "image": "https://image.tmdb.org/t/p/w500/2eZNjPQ9f0TQDHpsL2Ecktsv5v6.jpg",
+            "name": "Black Doves",
+            "Release_Date": "2023-10-10"
+        },
+        {
+            "id": 4,
+            "image": "https://image.tmdb.org/t/p/w500/bX6dx2U4hOk1esI7mYwtD3cEKdC.jpg",
+            "name": "That Crismos",
+            "Release_Date": "2024-11-27"
+        },
+        {
+            "id": 5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SycsQIZJJQNE1XcXvqNv9KV6aMNK5ovaLQ&s",
+            "name": "The Batman",
+            "Release_Date": "2022-03-04 "
+        },
+        {
+            "id": 6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2LmYfGCXKsQHThlhJ2TvvM0a6NdcbbZ-ag&s",
+            "name": "Joker: Folie à Deux",
+            "Release_Date": "2024-10-02"
+        },
+        {
+            "id": 7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAajuwtuYWlo9LJKDaWQkylYX8ATqaNKJp9g&s",
+            "name": "Blade runner 2049",
+            "Release_Date": "2017-10-06"
+        },
+        {
+            "id": 8,
+            "image": "https://m.media-amazon.com/images/S/pv-target-images/494903e401f4df09620a0e5af6676d6e0a0f668b269f70de8bfa34634cc6daec.jpg",
+            "name": "The Guilty",
+            "Release_Date": "2024-08-10"
+        }
+    ]
+}

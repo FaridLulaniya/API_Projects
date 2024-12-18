@@ -4,49 +4,85 @@
             "id": 1,
             "image": "https://image.tmdb.org/t/p/w500/rWI9nlFB1bMWlU7xExJ4WmkQUyV.jpg",
             "name": "The Red Virgin",
-            "Release_Date": "2024-09-24"
+            "Release_Date": "2024-09-24",
+            "description": "A precocious and prolific writer in Spain's 1930s is raised by her mother to become a model of future women."
         },
         {
             "id": 2,
             "image": "https://image.tmdb.org/t/p/w500/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
             "name": "Creature Commandos",
-            "Release_Date": "2024-12-5"
+            "Release_Date": "2024-12-5",
+            "description": "A black ops team is formulated out of prisoners, laying the foundation for the Suicide Squad."
         },
         {
             "id": 3,
             "image": "https://image.tmdb.org/t/p/w500/2eZNjPQ9f0TQDHpsL2Ecktsv5v6.jpg",
             "name": "Black Doves",
-            "Release_Date": "2023-10-10"
+            "Release_Date": "2023-10-10",
+            "description": "Helen embarks on a passionate affair with a man who has no idea what her secret identity is; caught in the crosshairs when her lover falls victim to the dangerous London underworld, Helen's employer's call in Sam to protect her."
         },
         {
             "id": 4,
             "image": "https://image.tmdb.org/t/p/w500/bX6dx2U4hOk1esI7mYwtD3cEKdC.jpg",
             "name": "That Crismos",
-            "Release_Date": "2024-11-27"
+            "Release_Date": "2024-11-27",
+            "description": "A blizzard hits a seaside town, setting off entwined tales of family, friends, love and loneliness - and Santa making a big mistake."
         },
         {
             "id": 5,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SycsQIZJJQNE1XcXvqNv9KV6aMNK5ovaLQ&s",
             "name": "The Batman",
-            "Release_Date": "2022-03-04 "
+            "Release_Date": "2022-03-04 ",
+            "description": "Batman is called to intervene when the mayor of Gotham City is murdered. Soon, his investigation leads him to uncover a web of corruption, linked to his own dark past."
         },
         {
             "id": 6,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2LmYfGCXKsQHThlhJ2TvvM0a6NdcbbZ-ag&s",
             "name": "Joker: Folie à Deux",
-            "Release_Date": "2024-10-02"
+            "Release_Date": "2024-10-02",
+            "description": "Struggling with his dual identity, failed comedian Arthur Fleck meets the love of his life, Harley Quinn, while incarcerated at Arkham State Hospital."
         },
         {
             "id": 7,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAajuwtuYWlo9LJKDaWQkylYX8ATqaNKJp9g&s",
             "name": "Blade runner 2049",
-            "Release_Date": "2017-10-06"
+            "Release_Date": "2017-10-06",
+            "description": "K, an officer with the Los Angeles Police Department, unearths a secret that could create chaos. He goes in search of a former blade runner who has been missing for over three decades."
         },
         {
             "id": 8,
             "image": "https://m.media-amazon.com/images/S/pv-target-images/494903e401f4df09620a0e5af6676d6e0a0f668b269f70de8bfa34634cc6daec.jpg",
             "name": "The Guilty",
-            "Release_Date": "2024-08-10"
+            "Release_Date": "2024-08-10",
+            "description": "A troubled police detective demoted to 911 operator duty scrambles to save a distressed caller during a harrowing day of revelations -- and reckonings."
+        },
+        {
+            "id": 5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyA-o8Ev-AFiDF4OHBZIC8bmx3YbkAhUlEjA&s",
+            "name": "La La Land",
+            "Release_Date": "2016-12-09",
+            "description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers."
+        },
+        {
+            "id": 6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wRM2HBdxUjizFtf8yGDJOctzXGRDotuL4g&s",
+            "name": "Venom: The Last Dance",
+            "Release_Date": "2024-10-25",
+            "description": "Eddie Brock and Venom must make a devastating decision as they're pursued by a mysterious military man and alien monsters from Venom's home world."
+        },
+        {
+            "id": 7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJaQQHwLyajloju8OJ76Ef7W2hduYPMOVHA&s",
+            "name": "Skyfall",
+            "Release_Date": "2012-12-01",
+            "description": "An ex-MI6 agent steals a hard drive with top-secret information to carry out a vendetta on Bond's overseer. Later, Bond must face his past in a bid to try and save her."
+        },
+        {
+            "id": 8,
+            "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUSExMWFhUXGBsbFxgXGBgaGhkZHh8YGBkXGB0aHSggGBolHRgXITEhJSkrLi4uGB8zODMtNygtLisBCgoKDg0OGxAQGi0lHyUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAQwAvAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAEDBAYCB//EAD0QAAECBAQEBAQFAwMDBQAAAAECEQADITEEEkFRBSJhcROBkaEGMrHwQsHR4fEjUmIUcoJTkrIHFRYzov/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACwRAAICAQQBBAEDBAMAAAAAAAABAhEhAxIxQQQTUWFxgTKhsUJSwdEFFCL/2gAMAwEAAhEDEQA/APDmjtAhIDw6LQwEU702jkiJykk6fe0SSMKqY4Sl20t5B4AKzw6hQFoszsItN0KbSl4ScNMGUqSpOY8pKTU7De9oB0VpYqA2ojUzsAVYaUpLgozVA5SylCKCOCqFVZz1QHr+Xm+sScAx8xDuCqSSErHkzp6tp+0S3fBpGLXJTw6CuYCEuSTalQHYVbR41OBwSuZalhZAdglm61N6EQRwfB0Ll+Lhw6RzJIa9ykg1SroYCy+JyTOZExTj53Dy1swNjmINKj+2xETdltJGX4twuZh1BMzLUOCkuP1HpFRIjQ/FczxZ1FBSUhgoPzEgFRrYPQDZIgVKwzEfvGiMduSXg6TmUQHCRmUDtb1qaxtMJKTMkpUgsks+4IqU01BA9YznBzkURQBYYvsHMVZXGMRh5k2XKUGKlBmCgCaZkvY2hVZX6TTY2XLkpJmqAq/+R7AXjHcRn51KJFyCO1PyEQY+ZMzETFFRG5eJhLJSAfv7eGlQuQfDxbVh4K8B+HVTiVqSrwkgubOdhqfKAnazPtCIjbY74XlGssBI/FzKU3Z9bRlcbg8s1aEAkJLel4QNMp5YfKY7KizE+UchWkMRyIZo7pDNBQEiA7ROlLecRJSQOtxHZW5HaGB1IkZ1AO25+77ecbTBpSEhKEgJH8n76xjJJynao9KxsuBzAUZvNvpSEy4hTEykCWCWqGICcx3oACSfKKxlJXLypAWaUKeUVof8SwLjppBVIzWcPdjfRh1+kNj5pElSJaRubWDkgdTT1jJm0QImYqWmZJlgKcgpJUAESyAeck3BJYVNoYYKQBlkzEzeVRmhKgRpXzt2MF+DzFzZPh+GoTlC6TlzJI+cPyg6FxfvFPjGEVhZagkkzVoypQEpFHSFlWUAEsoQizEzDMmYhaJbpCnS2jAZat5+piLAYBQmc1An5uvQb1ETZJycwyUW9Sk2uWP2aQawnDsktKicxSSMoYpy5UqCt3rbcRrJpIxjC2C8RLINbn27dIvcA4PMxBJSyUA8yzYbsPxGOOMSAAkhSnIatTp6X6+8ej8Nly0ykiWKAMGOlDp5ViN+DRwpgaf8LyxJ/phRmaFXzEvRtEj7eMj8RcPnYchUyUE5gkOMrOkWca2HWPUZhKBmFTt10A/KB3xEgTJBCaqWBRY2ZTbPYEh2Yw4ypkyjZ5bIkLxM10pUo9WYkVragDn7eDMzgakpY/MEqObRRFSK2LH70McB4ZORMGYICUjMTLZgCAAiocal+pq8XFySsLBcglSA1wXoaCnKBXygcsjjCkZDhmDEychCnYmulA5I6WjZ/wCtRLWEpIyKGVjylKk6hJuPrSMfiUKSwysUkgnU1LH2PpBXBBASgqmKC1JVVy7uwSTcIcuSKw+RNBNOICRMLEgOWBcGwSA9LMOjRn1oU3hhOoMwkXJqWuX/ACbzt8XwsyTlWpSlEqAP9ozAsAKuA2pJdq1ibEYKoWgsXDpcsfTWn11rAIyfEcEEkmnaBY940/FpaSTQgu2/33MZ6WG1asUZzRwA1xCSqJMobqbdt/vaIwNoCCaXKJLgGlDHZYsrZvTXq1/TrE4UMpD213v0ZqCO8LhyVPTKCAHsab9hWGNKyGalLC7G9X1qOn7wW4fNDkpClC6cxYJ/4oLE93ghheESpqFOplPQirN0PlTYlmijhpqsKsy1pli7KIUX6irH6xN2aVRoMEuYSkaNVqeVLjp0g3hWCSVjk1LOTqQO4ApAvhPGUzlAMksKqFEgak5resDviHjfi4iXLl0lS6JLEFa1AAzO1WHQk6xDzgtOsljjHxQTLBQnIylFLHnS5cBxa4gDheIkTRPUoqc85NSxDHvvB7h3w8iZL8XFJUETADLCVHNV6gC7lmBeOcb8FzZctUxFUgZsivnQl6Z2LGgr5wrSwaUzRyZbpKWBSp22L/y8CU4KUhakJBBKUqI1qV0J1IYX0Ai1wDFJEpnA8MAh/wCzr1AdL7h47TM/rhamAU4ULuAEkA+8QykA+LcLKjISkcuYEg3FQAaGzO/URs8IAlDWAJc7DT6B4zqF1zpco8RIANaZgqm1S3lBWUkqSpLsMxKg3k3m0UiZDnEqAWoguflPqADq+ugi7Ll5k5lOmxS2iXFT1ck9j0inPWm6mCE16E6vvoIvTSJkpYeiks4LEGlXFiM3tAKirPQv+qCl0lyC7aM1OoPrFKalIlqc5S1Rq7s+79XgquefBBUKhquS/oK66aRlcWkl6l1ZgxLMxFQzUY7aiDsOTP8AF5+bKHo40Ny37x1Lw0oyj4hYJLlQWAsAtmyg/OWFoqYzE5lhv+o/oGh8XiEJSoKBU4Zvp2jQl9k0/jqJkgoqnItGQKU6iAQXU4rbq1O8X0YlQSkgs9GrUiznqPvfHrlFKRmSUnKFpJSQ4NmpUHeDQxwZzY+nt3MXRmnY/EeIg1MumrKq/pbzgLiE0BYgEP5be0TTZ2fKCHa/7+cdTJKnZVgdC7ehb+IQpA8VrHSpg1Hq/wCUT4nDMxFvpFdaXNH9NYCCwUAVVZg9a+W8E+DyiXOZi/KD6vQj16RSkzC7gsBdwTbcVYPFzhS25mdr+o/SCXBenyFlryksWCGBYUJABD9zeJxMTPlkLQFZSxBYnTnTqDUU1YiKMqcVqUlmJU4bQMB5W9RE0laZM8OWCqKPU2NNenXziDahsDwVKueW+UF1Ifl6kPqLj9q9cU4YtU2VLS5KlJGcCoSa5j/tDkmNKvhygUzZIOYMVJai07d2+og7geFZQJrXHKlqpBcqSdjoO8TbQUmgmcK2UpAdLISCQwQKV8ovy54JuliCC1e77XNO0ZscUEwnNmQEnnDoSgGnKpbupQoWTbrSLX+tWcxRnIAbKhCkpDf3TJjcrVJAe9YyNTM/E2C8CYlUhJVKW4FXAUUuQC9AWSa3qzxJxXCkS0Mrnyj5W2NhR7EPrFz/AN4XMQpAlIEskVdwS7gigezv07xSxPEmAQUPfmOhNWrvXpAMGYKYoSpIKmOaoG6lZgT7GNHjQQQUgDN83YZmFO9+pjC42etMlAJzBCgokUOWiQP/ANj0O0aTBcXQUJBUqooo1BJdw/Ta++kapWjKbphZUrlysFEm1yWaw+r0ggqUlCeYtQhZBZlUcv3cP0gbKnKQvKV7kOAASbEF62tDInT3mKmBAlvlQA5JSTrsbD1hMEW8SgJlM5KRR7kswq1zSM7iphKZqiKJSQkkbgF/Jh6ehrGThkDgjLy+YZyG+6QMOCXNJwsliWOcksmWl2BV5fhFS4sKwlyN8GFVLZaQz1/X9oK8B+Hxi5q0rKghCM3KWdRIADsaM8elcE+D8Phk8ykzivKD4gDOHYpd2v8AxFeTgpWGKgnMxUSQASwqzsCWqw2AEXvI22Bviv4SRiihSVlCpcsS0j8JSl8ora8YfEcAMpYRMKmS2agF9unWPVcTNFMp823q0APiHBoUnxCTmSaVu9h6sfKBMW1WY/CyQEEpS3zC1TVrXJbfaIMehtx7ODUaPp7QUTIVQuXcFQL1gbjZwKgN1Gg19aXeKQ3wUJScwINtS9X7uIhTh9lJA6vF6cw2Pf8ATSKycQEu9XL3NvWKMuDtKQk/MSejgnzYba7RxwqYc6kCpUWA8/rHU2c/KmD/AMJcLHPOJLkslmozEmsDElkM8H4RJlh5jqURzEqyoBDUDV1jRcIwGHWVKCZStKOSOxJfzgZhcN/UBcnK9GFSS712AYdIvYfhqTMC0ky1XUymsHObRnp+0ZOzdZNAMUA6EobKKUcP9XpHHMtC5aFcwchYH4mBqNuncRLhLZl5SsJAWzVNLfesNKwykrExJullC4KhQnd7Dr5RDKR53iuLz8Mhlol50HLV1AFnJFA7ly71MDVfFOIUr+t4mW4DHIKgOUJIzV1L31jU/HXDiUKmNVg7agfKe5Zv5jOcFmjxAFpDElN7g01vp5AQ01XA6fuFsNxh0jkU5qCUKIdqty0B1BAIvZiGxvEZSpRzFlB2CiE9LFnFq9ILcOSFSmbKoKyk1qzgFt7RU+KsLKXLCVfgnBQpu9PQnu0IdmHm8SCzkT8pCQSKABNtPxGp8usVk4In5BmJsnQndqV6htYLY5AEsZQkJzZQEjVJGZtxf1ib4fUBiEkj9a/tGsXgymvcg4ZxHFSA8yWqZLBrmIVkLEOku9A9DdrxfmcaVNKsqZtSRlMtV25SMo9j5QaxJCCcp6KcUU2dIemlA/UwQwmJdCsqcgFQgUroCdawpUELR5/juP4qwSsHVRQXr5XZqtF/4b+JVoXkkoIOVRJWaqaqirckAvc6veCi5hTnSSHSL01YA7v06iJuBfD3iyjiA+cTCyUnKoFnffXpE2q4LcXd2aedxMTQ5lnKwqFh6iwDXvV4qcQnpEklK0mYlJykiuZqBYBL1YsDpE2E8eWlzKVJAYklSGpZiFCvQiAvEOLKmkyymbzKPMspAIrUAEmgBuAKPpGZdEUjEz5ssKQjnoClxlSC7qoWL0F39IvYTBFJE3EqSWqEO6QdybExFwjh4FEqX4eblAUwoDTlqbDVm84NqyiyQPL71jSJlMx3E8dJKlGUQ2pFn2EYubNecNgSafe8el8QwMqYCJiAUi5AYnzSxjLcU+G0D+pJUaD5CXa1jf1e8a2ZsGz00sGLs/k/8xBJkOHN36fmoQlqKMwUAkh7e3tXzhn2CS9bj9adoBN2MsZU/o7fSNVwKYUhSRTlGUaVJNev6xlZxAF3GoFr7wTweNKcpcVlJq/Sp9zDYI2HBpjrnAqchSTpbIlm83gtwmSpJJmF8y1MQ9KnL7NAGQEy5zgVUkZuwCf0HrBnCYt5JVqMzA+d9rRm0VZopU1JQTy5sxSSku2VvQnbrHCaJURUpByjR9h5xSlrR4igCymSpXUmgJ8kN6dIlwawor2CTUakvXo1f+6Joss8UwYVJWFNVBGtiPyYfrHi2GmKUgnVmO6Vj5Vfl5CPcMQf6KCQ4CM6qtT5r9njwnhkzKshR+YAgjfU/X1hxXI9xs+CcQE0Fbh3Cig9QAruxz9bRR+Np/8AWQh8qAAotU1CkgAb5Soje0CMNizLmgpNL76MpP8A4kdR1ipxPiKphVoFLe7HLZI8glPoISjkpsbE4sqUhLEZSosbh9Dtp6w8uYcycrgvQj84rS0jMS1PvvE5JBpox77DzjVKjKQcw3FVS5a0zjmcuhSqO9VJcBgQyPUxPwfi5VNKJqWTmKlFmLJSAn3GhuIq47JMScgeviILOFBxmDdyS3aA/wDq1BSk5iUrCfm0DhRregKtYVWgToPYieVKDUL1rR3r3NW7RpPh7gqpCzPCVLnKPKrMRLSjSn43vX9ScDLxJEwqQWCRTr07/pFdXEJjlBmLKdU5iE+jtpEKDZcpUeqScIVzPEmzvGmA8qR8iHf5Ujlcb1NbxfxkuRJlKmrTndwE7iwSnvePNvhz4gEuXMlnNnKk+Cwd1FklI7Ag12j0vj+D8aUhiQRUAFjZmBs4c32iHGhqVgbhaHKEhLJFfMg0B6NrvFydO5ElqtXyirgELHKS+U0OVi3UbhTw+IVmcUqfK5pXq94qKpEzdsq4qd0obvYjXsaxnMQsJdKiMxUQNmG9ft4O8SWKpIq36U94zONSlip71JBcBNW6b93jVEAmdiM80gkuwSC7EN5VpvFaYgAtkSprkkBzfWIsStlg6FTlveLiFBNEqYXqSPyMMljZS7kU0H6A0846XLdCA7pBUg0sHoPIB4ingE6nWtu8XSCnxXqxTNS2o+VTdGb2gBBnC4tawiYctZeV3rmDpVf/ACEEOFTGk5QQovWrsTcX3jHIxRCcgLJzU5rAuo07kRo+HAlCGAbNXSgLud7fzEM0SwarBrBnzVvTR7coCFDtR4scOxvLMmF6nbdgANyzRn/iCeEIlSweZQzFv7bFyO/n5QRkqUpMtDhLEEvRgOZSlf4gMO5iGykg78T4sDBz8hAHhiUkhqA8nsFKP/GPElSyrlFFD+C9PeNn8afEaVS04eSf6eYEq/vKRQj/ABBZt6mMx8PShMneGfxoI6u4VTySYuOEQ+SqZawpLqTdr7uNqQTXweZLOZSkpp56AsH676HrCx+CWuaUlml5Uhnq1iKln07+pfEKEyTMJPOiUQeuV61o5DRMmzWKXZlQpqv1f2p0o0SeN+2kRTA1DdIYtZy5PuYuYHDywUqnpmqSaiXKbOpIJ5lEnkRRtzVmudMJWY5vBPw5U4B0syVOwI1uK/rekVcbhpgOZSFZSSym0NSOlWjfcNOBmISqXLyoUMuVWYLBAYhRzVPd4yfxBgfBmJTmeXmORbVCSDyK3y6fbRvTZSg0gBKnEZgD+xhSiBXU1ib/AFoozuAdBsGqfc32iqo2vGiIkb/4f4VJUJU4OShJWH/uy+lzG0w+MCkoJYZVEGtvsNHnHwDxXLnlKNA5R2PzD1/8o0vC8Q61ShUZWJ6pYgimqMtf8TGckVFhzHkCYXsUhjpf9384CmjioqaVPZhFmTjMwAKqJ5VbjYkDQVFNGgXxaeZTuLAsHvc9rV84EDK2PxH9RyX6dP5aAeNxBIUdix7UDdohXj85CwSKuUnTeov5RD4wAOtFH1P0jREsDTlOoh9b6eXnFpA/xJ9PzgdIcklvSLavE0LuLsH86QEXZdAGz+beQ36RZkIPLmLqAICWLqSTVBYMKOQSbxe4SFKIom/MRShYetTBOVh80mZ4eZRRMUp3YdUIOrGjgiou7wSZSMriOFEFSVOCEhTFg43602g98KYnMlKLkEg+lT1F4jlzWzCYlQolkzGL3FKkHS8H+F4GVMlS1LQAVOKDKAcxAAys4LH7MZtmtdlDiwCpi5ilshDAAGhCSDU7l1fy0VpuIzeLNWSEW2zOE8qQ/wDiCR07CDvGfhdQlBchYISDyLSpaQdVULv1IVGN41wrGcqpoKh+EpIytslmHXeEknyNyaWALi8UZkwqZh+FOw0ESYBZ8VDEpJIAU7MTQV0vEM6UQHIIOxvE/CsIJswS2JzA0BOgJ07dI1eEY5s1chSEoUSS6jUsd9z9IfGpRXITzSylRYahgeof6x3gsFMzmWpQWrKCpwa9FJDglqAv6xFNGRRyq6MpikCr9fQi8YnQZqdJaZ4aen6km9Wq3lGk4Hik4czDiJdMt01ZilKUEMxFQzdYZOBSmWFrYrAfqOldGLecW1cSlzZyfE5UJJKkFLFVCkAM4IB7XLxMpX1g109La7byccOmomKUuXYqBs1qGh1qPSJeNlMyX4f91Qeqav2084oS8TLC1eGKEk5XcnRz7QKx/FiVliCslqVSlIsHsTUv36QKOcESmlyBEjK4IZT7fbbQl6QX/wDb1T5imUA4dyBelyN6xQnyiklJZw4O1KflHQmcsok+HkKSmWtBZeV2tmS5fzZu4g2niC0CXjJbEPlmDVxQhuoJP/KAk+b/AE5fROXq32Iu8P4mJYylGZKw0wO3Y7Eiv3YaCLDSuLhGJTOT/wDVOT7WWk7EFvQRb45PFJZLoPyKGlH3qnRqVjMy8iSciiuTdVOZGjtpoDuPWLWCxAy5Ct0l2b8L1zIOx2iKNG7BeNkmU+V8r0It07doqTphCGrXc+VINYuSv5aqTQgiyn0V6QGnywSMxAANXvpp6xdkMgkgABwQq4O/rCyDQqaLnEsYFpCUkGvoBQAQOV1PtDMmapLoRkJL0zMdVAv99epglwOcMhS3KGAFvkIP1AgDNxHMT69rwSkTPCShdqvXqettPUQMtBDFKSqahLAks5P4RzOz9co840PBZJIU7ZUrUwYVdgGP+4H184zCcRlICjQKUkeQzJSaWolz/MbThswpylQbMkPVx73/AHjJo1vBdm+JLdYOb/qIAbMAPmSNFAUZ6t2jjCoCkHIUlKgFVGYEGjKHle9Ku0S4qcUuQ1bPvaKkoKlOoB0litIu+sxA16p10reWhoBcd+GkYiXlQ0ueASgEHKoA2CjQpL9xtpGXw3CZch0rCzPFGdSMp6M3u7x6dJxSJibAoflIqGocw/aOOL8ARiZZ5ymY3KsXHQuKitjXYwKTWAaV2eey8ViEOgnMlqgKyk13LnpoIGzsTkIJonZwTdyo+bd2MPxAmQtciYSiYksoAoTRnBzFIdwQaCA61g8oqTQBwo9yQwbyikh7qYYxGNzIUHbmAfpQAxxMmrmkCaVqIDDKQ5A0zAORAnAzswUk0IT9KW94lm4iaojMEUsQl4SjRrObnUkG5WGQQJZRl1KXCir/AIpJ9TFfiuASyVBJZ7J+ZtXa3lHWFQhKWykEnmLkV3oadosTcSkj5UkijlIf2H5RN0V6Dro74blEoMlne9/u8AeIgZyWo1hcnUlvyhp01WdnvQ9Aft46mYItyk1sNSbMI0iYTXRUBK8iUipJpp93gkvCplh1aepPQbGCGD4IZQSAxnLNibDUdqOT0gtJ+FDnTMmLCyDYBkpq+t4TnYowpZ5MvguDlSsySpKr00O3WDk74bT4alqWpCwQKZXUTYM1STGgxaZGGduZSizXKqMAkCKuLnOAlnXVhfwyxqSPxNR9HYPqWwpAbBcMyJClqmOfwZiydgprmo6Aew/jfD0lScoctVvr+flBLErUU0NEqZP+RJYk6ffSKc6YTY2Sqmmat/JvSKTJawZvG4fIopFriIvL0ibELzJBJcuXPpECpbbxZjIu+M7K0+w/uPWNHiJGbCIIe6jewIBZ9a/RtIzASeaWTZwBo+wjW/D2KCsNkKSSk5baaQi0wbPxGbDBX4qkkXpQv7xu+CYwKky61ShIPtGJmyihE6WaPpTl103L+nWCXDZ2RMsnVLKG5FKdXiWijdS5gWWLOkP+Y+kDpOMImOQM1ADuOr+sVlT2SpQpytpcxSTPAUgmrhn60/b1iWiomjkHKslJZJUHGxIFRtW/8vbTi0gllAPTzcgiMZjMcouQocix50D01BhuH49avnNiTQdS7dYhlpFb/wBQcIJsxM52KeSY7k/3I3ahUK9IxxliWSrYFnoXIb2cx6licqlOqqFABSTZQIIL+X0jzz4jwhlzlSlgEAuhn+RVUmpexFDsbxUG+Ctsatcgjhnzsdd4NYpCUpp99ngNLooe3sR9G84IzpIbPXKagfWHJZL0MRaEicCKUJ0P397xXViyFEfbmFipzJAIFqdvSBeasNRJ1dZxpFtUwu7xquCTGT4mQrWqklLVJsV9ALVbUxmuE4Iz5qJY/EanYCpPoI9K4emXJdN5iQAoaJTUBI7hJ9YWo+jOOckXAcCpC80xWea17gAhRyJ/xpU3LdmJTsHmJqoEiw3p9+cQhAAqrnXqDlZnt6mJlKcAA1YA9y/1jMoHnCBMx5ZdSgOYnMw7n8oo8TUJSFJQedZNXq+qoL4qamUkqUf93XYRmSFKUqYoVoQDYJ184tIRKMP/AEgnpTqd67n6wMlgKJU1QC+z/mdIMY1QypYKpXWlqX2OkCJyCiWSaFrasf2i0jNszU08rdT9YjC4fETCo3oIjb7pFmMnkt4SYDMBVV9etPzgzwHH+HNKGotr0AUPrQH0EZxBYxanFRGfzcaH+YYkzV8XmJKiQrROYpPcGpo7H+IjwhKU5QQQDQu4INSX3dxAKTjM4yvU1L7izbiO14sJUWfyOvlEM1jwbIKTkCXY3If3jifJIQxOYAU3BoX7W9DGbwfEwVJdgRal9C3d4Kz+L5SkzJLoOqVVbdvT0hD4KWMxrcoDf3al7taC3C1syjvTeupgPNXLUpUwObULbNpFrh/EgXQ36wqKs12HVnDD30bSM7/6hyBnlTAPwlBPaqX6spX/AGwT4XOIN6ffvFD4wQDJmGpUkoXXf5VN0Y+0Zrk0i6MMqZWL8mckHdKqh99jo+/XvAaYp4mkylEECx0jVqydPVluwrCy5aVcxPtHM7BlQ+XKO3Me+wiphsZNk1Sx7gFu0PL4lMmTEhSmci1HPWJpm8taHEk7NtwbguHwwCxOeaUMskp5LElAbdmJe0GOG4OVLSBLUlTupRWtOYqLl1Wc6W0jG8P4YPnmnKgEa1NA46xOOISkhYQECtAaFhZ6V/eI5McI1+LKRlLpzBTDKXZ7i33WHlYlBZYeq7dxY9ox6eIJNkjQ0q2rEhto5nYo/K96hvIQ6FuDXFsalSnsAXqaPoSHv326wNxPEUpdKSFuls2ggZN4gASChzapAf0t7xyJgmAhIN6fpFqInImXilKNy3TcAfpHOPIEonUpDNuRr1DwQGDEqWVKVzEfVg0CeNq5am/taLRmzPzRYecc+XvDrU5jmGZMkUmHkrIsf0McExyTDYiU0LgdxDLJBd3jkL3jpLWJpvCZSJpU+ocNW7U7vBvB4pyBMNQNri3nAMBgxDp0bTqImw04J0drNSkKik/cM4/hICgZTuatakD0TVIUxBBA2+/WLf8A8lUEEJlc5NVEuPRtusUMNxRZV/UOYV0t26QMcWaDg/EUL3BA+UmtqkH7vEvH8YBJmbkZfWnnGb4pPlFvCDVvUUqwHlEYnE3JPesZ7ezeOcEOGwz1MEfCAHSHTMAAiHGYmjCC22dMYw04kGLmBoj4RiCialQy7OoAgA61sesVVqeGRF1ijh1NXdKzeY052UVOAH7294ozRLUXCQW3/OBWCnLIFXFv2MWlTQHC2+noYz20aOaZOuYlAqzO4FHY0tAzGT3NFU1Pt+UVcTitB2c7RHhpSlqCWfVotRM3M7nqfXtVz5xa4SpRW4UUksC1KWi/h+FuCWs+356wMnyygkejat2MOxUHsNhgQXJID/MXrViO35jyAccxOaYwsAPM3f3idWLKJYIaun0P3tAdRepvrDRM30MTCpCEMIZmdGJcPJK3YWDxCYI8BV/UI3EADKwTgLqx+zEOKweUjIXcC29m61g3glhK5sotQnL53HrFGdL5VMCFCh9mPo0DLSGRwmYlOeYpMtOr1PoNYUnhGcFUmalRGjFJ94OcXlBcuSLhQf2H6xS4Jh8s9SQaZPeh/P3jk9Sb03Oz3ZeJ40fMj4yjadZt3bV9Y/YDTZU0kpUCCkV+xe0Vm0asaaVhkzFzgSQoqyprvmZh/wAT6QNwPDFBZEwMxYD+43JHQBi/URp6ySz0cb/47UlJenlSbSf06z7f56KMktesQpmNB3g3DJc4z1LKgmSkqyjUB9TV6GKWA8GbMyGVlzOxClPZ6uW9ob1VnHBEfEk3FKSW50uc5rpOs+9FL/URGuY8EZPDkGcuWFFkdKlqH0h5EqUsKPh5ED8ZUb6UNzqwg9VB/wBTVlhySy0s/wBvPCaVe7oFtEiIK8K4clUpc1aSoA8uV3O/5RTnFISXlFCvwuVebveKWom6Rk/ElDTjqSaSatc/6rPWSsmaoWJD7RwVk3LwTxWB5JapcskqDlsxag9LwsXgQEymSy1kAu9LaHvB6iKfhaqv4SffdVWPkHKSbxNhZvOliQXYQRxGHlheVIDBs1Sa0oK0p9Ykl4RCcQAkMyM1ya21hPUVWXHwZPU22sSSfPf4LOInqQOZaQ52NfaoipicSQkKCkkKNG/caU9Y44kqWpZz+JSlMreQPeBgHMwtVn+7wQtpNh5Ppac5Rgl7LLuzvEzCoOYqxPiQwaII1PPY8J4QMM0AhNFnh8zLMSTSrPs9HivDPAAf4xLKZqVj8QHqNYkfxAU2Ul9Pmdr9ae0D1Y3xJQSfmSzHfbzjidMI50muvX9oOikwuqcVYZB1lqynsXY/QRzwZWXxZz/Ilq6lRGUeoMVcFjRlUFB0qooDa7jqLiI8Zik5fBlvlBJJNCtVsx26DSOd6eHHpnqQ8pKUde//AFFVXylUX9VTfyn7o5XNORSgWV4iCDq/NX6nzi/wzGrn4sFTUSwAsGZ27mvnAUzh4akl82YEbMARv1i78O8QRImmYsKIykAJAN2clyINSFxeMi8TyPT1dNOVRtN/ht5LXA5vPPl3MyXMA/3B/wAs3pFH4alviEE2SFKUdgAaxVGJKZniIcMp0v3esTz8SgBXhAgzPmf8CblCTqCddgBvA4PKXZGnrxThJ/0Nv77X78/f2XeAKC8RNVZ0qV6qFPeK/B8fzJlTOaWohPZ6DyiDg2LTKWVKzEFJHK3Q6npDycTKlqCkIUpQsVkMDocoFSO8JwtvHtRtp+Vt09OSmk05bvlNrFd3QXW6cJOlIJeVNILGrZr0+6GM5MmE3JPcvFjC8QWhalPmzPnBsoG7xDiMjuhwP7Tceeoi4RcW7Ofy9eOvCLjjattfCbpr8Yf0EuJrIlYdiRym3ZMWMXOCU4ZWzE9mDwP4ji0LRLSnM6A1QA9BW/T3jrHYxC0S0pzOgMXDPS4r0iVF4/J0z8iKlquMl+mFfa23/DJsSMs5T6kEdRSLOOm5Z4VoAAexf+fKBsjFhglYJA+VQ+YDatCPt4vzcQmYrMAWpQs/S3doe12k/Yz9eKhKcHlyUkvbm/5/JHxGV/UfRVR+cVVIAL7H8ovzZgSnItzeoPy9idBaBmKmCyS48we0aRtKmc3kShOT1I95rtPv7+CHELcxDChzFHGJocCGBhnhgPDQoaEA4MdpmRHCgsCVK2BG8MmZuHjh4aCwO1q2hZqNHEKEOzp4fNHEKAR3DZYaE8ACh4cKjkGAB1Q6FRyTCEAHZNYnwc4JLny6de8VXh3hjstz5wI5RFcneOc0MowWA6hDPDPDQCOjDNChoAFChQoQChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAChQoUAH/2Q==",
+            "name": "The Corpse Washer",
+            "Release_Date": "2024-02-02",
+            "description": "A mortician attempts to uncover the truth behind a series of mysterious deaths, including her mother's, while being haunted by spirits and burdened by the weight of untold secrets."
         }
     ]
 }
